@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Zadanie1-adr</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="haslo">Hasło</string>
+    <string name="zatwierdz">Zatwierdź</string>
+    <string name="wroc">Wróć</string>
+    <string name="zatwierdz2">Zatwierdź</string>
+</resources>
